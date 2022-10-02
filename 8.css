@@ -1,0 +1,43 @@
+#table{
+    border-collapse: separate; border-spacing: 70px;
+
+}
+#table2{
+    border-collapse: separate; border-spacing: 70px;
+
+}
+td{
+    border: 3px solid grey; 
+    padding: 5px;
+    width: 450px;
+    box-shadow: 20px 20px 50px grey;
+}
+.l{
+    border-radius: 70px;
+    background-color: grey;
+}
+.h{
+    border-radius: 70px;
+    background-color: grey;
+}
+#t{
+    border-collapse: separate;
+    border-spacing: 70px;
+}
+.f{
+    border-top: 100px;
+    border-left: 100px;
+    border-right: 100px;
+    color: black;
+    font-weight: bold;
+}
+p{
+    font-size: x-large;
+    font-weight: bold;
+    text-shadow: 2px 4px 2px chocolate;
+    color: saddlebrown;
+    text-align: center;
+}
+hr{
+    border: 3px solid grey;
+}
